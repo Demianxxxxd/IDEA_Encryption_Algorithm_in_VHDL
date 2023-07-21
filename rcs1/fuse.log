@@ -1,0 +1,22 @@
+Running: /nas/ei/share/tools/xilinx/ise/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -o /nas/ei/home/ge86qud/Desktop/rcs1/tb_control_isim_beh.exe -prj /nas/ei/home/ge86qud/Desktop/rcs1/tb_control_beh.prj work.tb_control 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "/nas/ei/home/ge86qud/Desktop/rcs1/control.vhd" into library work
+Parsing VHDL file "/nas/ei/home/ge86qud/Desktop/rcs1/tb_control.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 90672 KB
+Fuse CPU Usage: 910 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity control [control_default]
+Compiling architecture behavior of entity tb_control
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 5 VHDL Units
+Built simulation executable /nas/ei/home/ge86qud/Desktop/rcs1/tb_control_isim_beh.exe
+Fuse Memory Usage: 656308 KB
+Fuse CPU Usage: 930 ms
+GCC CPU Usage: 210 ms

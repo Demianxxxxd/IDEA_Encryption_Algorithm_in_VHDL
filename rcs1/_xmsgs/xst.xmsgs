@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/idea_com</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/idea_com.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/idea_com.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/idea_com/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/idea_com.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/idea_com.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/clk_div</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/clk_div.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/clk_div.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/clk_div/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/clk_div.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/clk_div.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/idea_com_inner</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/idea_com_inner.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/idea_com_inner.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/idea_com_inner/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/idea_com_inner.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/idea_com_inner.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/idea_single</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/idea_single.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/idea_single.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/idea_single/Structural</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/idea_single.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/idea_single.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/uart</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/uart.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/uart.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/uart/behavior</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/uart.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/uart.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/control</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/control.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/control.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/control/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/control.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/control.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/key_generator</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/key_generator.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/key_generator.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/key_generator/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/key_generator.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/key_generator.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/mux2x1</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/mux2x1.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/mux2x1.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/mux2x1/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/mux2x1.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/mux2x1.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/round</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/round.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/round.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/round/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/round.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/round.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/rxcver</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/rxcver.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/rxcver.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/rxcver/behavior</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/rxcver.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/rxcver.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/sixteen_bit_register</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/sixteen_bit_register.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/sixteen_bit_register.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/sixteen_bit_register/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/sixteen_bit_register.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/sixteen_bit_register.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/trafo</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/trafo.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/trafo.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/trafo/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/trafo.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/trafo.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/txmit</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/txmit.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/txmit.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/txmit/behavior</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/txmit.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/txmit.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/addop</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/addop.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/addop.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/addop/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/addop.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/addop.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/mulop</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/mulop.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/mulop.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/mulop/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/mulop.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/mulop.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/xorop</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/xorop.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/xorop.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/xorop/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/nas/lrz/home/ge86qud/submit/rcs1/xorop.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/nas/ei/home/ge86qud/Desktop/rcs1/xorop.vhd</arg>&quot;.
+</msg>
+
+<msg type="info" file="Xst" num="2679" delta="old" >Register &lt;<arg fmt="%s" index="1">LEDs&lt;7&gt;</arg>&gt; in unit &lt;<arg fmt="%s" index="2">idea_com_inner</arg>&gt; has a constant value of <arg fmt="%s" index="3">0</arg> during circuit operation. The register is replaced by logic.
+</msg>
+
+<msg type="info" file="Xst" num="2679" delta="old" >Register &lt;<arg fmt="%s" index="1">LEDs&lt;6&gt;</arg>&gt; in unit &lt;<arg fmt="%s" index="2">idea_com_inner</arg>&gt; has a constant value of <arg fmt="%s" index="3">0</arg> during circuit operation. The register is replaced by logic.
+</msg>
+
+<msg type="info" file="Xst" num="2679" delta="old" >Register &lt;<arg fmt="%s" index="1">LEDs&lt;5&gt;</arg>&gt; in unit &lt;<arg fmt="%s" index="2">idea_com_inner</arg>&gt; has a constant value of <arg fmt="%s" index="3">0</arg> during circuit operation. The register is replaced by logic.
+</msg>
+
+<msg type="info" file="Xst" num="2679" delta="old" >Register &lt;<arg fmt="%s" index="1">LEDs&lt;4&gt;</arg>&gt; in unit &lt;<arg fmt="%s" index="2">idea_com_inner</arg>&gt; has a constant value of <arg fmt="%s" index="3">0</arg> during circuit operation. The register is replaced by logic.
+</msg>
+
+<msg type="info" file="Xst" num="1561" delta="new" >&quot;<arg fmt="%s" index="1">/nas/ei/home/ge86qud/Desktop/rcs1/mux2x1.vhd</arg>&quot; line <arg fmt="%d" index="2">46</arg>: Mux is complete : default of case is discarded
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">16</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">Z5</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="2371" delta="old" >HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">16</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">Z6</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="2371" delta="old" >HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">result_33bit&lt;33&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">result_17bit&lt;16&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="info" file="Xst" num="1767" delta="old" >HDL ADVISOR - Resource sharing has identified that some arithmetic operations in this design can share the same physical resources for reduced device utilization. For improved clock frequency you may try to disable resource sharing.
+</msg>
+
+<msg type="info" file="Xst" num="2169" delta="old" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+</msg>
+
+</messages>
+

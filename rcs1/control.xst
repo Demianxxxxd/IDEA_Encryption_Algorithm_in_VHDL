@@ -1,0 +1,5 @@
+set -tmpdir "/nas/lrz/home/ge86qud/submit/rcs1/xst/projnav.tmp"
+set -xsthdpdir "/nas/lrz/home/ge86qud/submit/rcs1/xst"
+elaborate
+-ifn control.prj
+-ifmt mixed
