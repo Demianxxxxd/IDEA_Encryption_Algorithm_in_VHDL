@@ -1,0 +1,35 @@
+Running: /nas/ei/share/tools/xilinx/ise/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -o /nas/lrz/home/ge86qud/submit/direct/tb_idea_isim_beh.exe -prj /nas/lrz/home/ge86qud/submit/direct/tb_idea_beh.prj work.tb_idea 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "/nas/lrz/home/ge86qud/submit/direct/xorop.vhd" into library work
+Parsing VHDL file "/nas/lrz/home/ge86qud/submit/direct/mulop.vhd" into library work
+Parsing VHDL file "/nas/lrz/home/ge86qud/submit/direct/addop.vhd" into library work
+Parsing VHDL file "/nas/lrz/home/ge86qud/submit/direct/trafo.vhd" into library work
+Parsing VHDL file "/nas/lrz/home/ge86qud/submit/direct/round.vhd" into library work
+Parsing VHDL file "/nas/lrz/home/ge86qud/submit/direct/idea.vhd" into library work
+Parsing VHDL file "/nas/lrz/home/ge86qud/submit/direct/tb_idea.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 93724 KB
+Fuse CPU Usage: 1030 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity mulop [mulop_default]
+Compiling architecture behavioral of entity addop [addop_default]
+Compiling architecture behavioral of entity xorop [xorop_default]
+Compiling architecture behavioral of entity round [round_default]
+Compiling architecture behavioral of entity trafo [trafo_default]
+Compiling architecture structural of entity idea [idea_default]
+Compiling architecture behavior of entity tb_idea
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 18 VHDL Units
+Built simulation executable /nas/lrz/home/ge86qud/submit/direct/tb_idea_isim_beh.exe
+Fuse Memory Usage: 669860 KB
+Fuse CPU Usage: 1360 ms
+GCC CPU Usage: 660 ms

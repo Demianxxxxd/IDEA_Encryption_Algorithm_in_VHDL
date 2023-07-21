@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "/nas/lrz/home/ge86qud/submit/direct/idea.xst" -ofn "/nas/lrz/home/ge86qud/submit/direct/idea.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 idea.ngc idea.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o idea_map.ncd idea.ngd idea.pcf 
