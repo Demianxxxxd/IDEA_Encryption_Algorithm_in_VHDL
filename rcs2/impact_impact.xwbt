@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=/nas/ei/home/ge86qud/Documents/rcs2/impact.xsl
+OUTFILE=/nas/ei/home/ge86qud/Documents/rcs2/impact.xsl
+FAMILY=Multiple
+PART=Multiple
+WORKINGDIR=/nas/ei/home/ge86qud/Documents/rcs2
+LICENSE=iMPACT
+USER_INFO=iMPACT

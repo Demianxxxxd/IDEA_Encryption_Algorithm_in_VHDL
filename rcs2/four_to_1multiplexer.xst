@@ -1,0 +1,5 @@
+set -tmpdir "/nas/lrz/home/ge86qud/submit/rcs2/xst/projnav.tmp"
+set -xsthdpdir "/nas/lrz/home/ge86qud/submit/rcs2/xst"
+elaborate
+-ifn four_to_1multiplexer.prj
+-ifmt mixed

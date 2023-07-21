@@ -1,0 +1,2 @@
+vhdtdtfi -lib work four_to_1multiplexer.vhd -prj idea_rcs2 -o four_to_1multiplexer.spl -module four_to_1multiplexer -template /nas/ei/share/tools/xilinx/ise/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+vhdtdtfi -prj idea_rcs2 -o /nas/lrz/home/ge86qud/submit/rcs2/four_to_1multiplexer.vhi -module four_to_1multiplexer -template /nas/ei/share/tools/xilinx/ise/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work four_to_1multiplexer.vhd 

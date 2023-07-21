@@ -1,0 +1,23 @@
+xst -intstyle ise -ifn "/nas/lrz/home/ge86qud/submit/rcs2/idea_com.xst" -ofn "/nas/lrz/home/ge86qud/submit/rcs2/idea_com.syr" 
+xst -intstyle ise -ifn "/nas/ei/home/ge86qud/Documents/rcs2/idea_com.xst" -ofn "/nas/ei/home/ge86qud/Documents/rcs2/idea_com.syr" 
+xst -intstyle ise -ifn "/nas/ei/home/ge86qud/Documents/rcs2/idea_com.xst" -ofn "/nas/ei/home/ge86qud/Documents/rcs2/idea_com.syr" 
+xst -intstyle ise -ifn "/nas/ei/home/ge86qud/Documents/rcs2/idea_com.xst" -ofn "/nas/ei/home/ge86qud/Documents/rcs2/idea_com.syr" 
+xst -intstyle ise -ifn "/nas/ei/home/ge86qud/Documents/rcs2/idea_com.xst" -ofn "/nas/ei/home/ge86qud/Documents/rcs2/idea_com.syr" 
+xst -intstyle ise -ifn "/nas/ei/home/ge86qud/Documents/rcs2/idea_com.xst" -ofn "/nas/ei/home/ge86qud/Documents/rcs2/idea_com.syr" 
+xst -intstyle ise -ifn "/nas/ei/home/ge86qud/Documents/rcs2/idea_com.xst" -ofn "/nas/ei/home/ge86qud/Documents/rcs2/idea_com.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc idea_hw.ucf -p xc3s500e-fg320-4 idea_com.ngc idea_com.ngd  
+xst -intstyle ise -ifn "/nas/ei/home/ge86qud/Documents/rcs2/idea_com.xst" -ofn "/nas/ei/home/ge86qud/Documents/rcs2/idea_com.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc idea_hw.ucf -p xc3s500e-fg320-4 idea_com.ngc idea_com.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc idea_hw.ucf -p xc3s500e-fg320-4 idea_com.ngc idea_com.ngd  
+xst -intstyle ise -ifn "/nas/ei/home/ge86qud/Documents/rcs2/idea_com.xst" -ofn "/nas/ei/home/ge86qud/Documents/rcs2/idea_com.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc idea_hw.ucf -p xc3s500e-fg320-4 idea_com.ngc idea_com.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o idea_com_map.ncd idea_com.ngd idea_com.pcf 
+par -w -intstyle ise -ol high -t 1 idea_com_map.ncd idea_com.ncd idea_com.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml idea_com.twx idea_com.ncd -o idea_com.twr idea_com.pcf -ucf idea_hw.ucf 
+bitgen -intstyle ise -f idea_com.ut idea_com.ncd 
+xst -intstyle ise -ifn "/nas/ei/home/ge86qud/Documents/rcs2/idea_com.xst" -ofn "/nas/ei/home/ge86qud/Documents/rcs2/idea_com.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc idea_hw.ucf -p xc3s500e-fg320-4 idea_com.ngc idea_com.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o idea_com_map.ncd idea_com.ngd idea_com.pcf 
+par -w -intstyle ise -ol high -t 1 idea_com_map.ncd idea_com.ncd idea_com.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml idea_com.twx idea_com.ncd -o idea_com.twr idea_com.pcf -ucf idea_hw.ucf 
+bitgen -intstyle ise -f idea_com.ut idea_com.ncd 

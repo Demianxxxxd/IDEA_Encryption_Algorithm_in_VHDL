@@ -1,0 +1,6 @@
+vhdl isim_temp "xorop.vhd"
+vhdl isim_temp "reg16bit.vhd"
+vhdl isim_temp "mulop.vhd"
+vhdl isim_temp "four_to_1multiplexer.vhd"
+vhdl isim_temp "adder.vhd"
+vhdl isim_temp "datapath.vhd"

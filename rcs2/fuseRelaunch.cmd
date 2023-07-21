@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/nas/ei/home/ge86qud/Documents/rcs2/tb_control_isim_beh.exe" -prj "/nas/ei/home/ge86qud/Documents/rcs2/tb_control_beh.prj" "work.tb_control" 
