@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/nas/ei/home/ge86qud/Documents/rcs2plus/idea_com.ncd
+OUTFILE=/nas/ei/home/ge86qud/Documents/rcs2plus/idea_com.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=/nas/ei/home/ge86qud/Documents/rcs2plus
+LICENSE=ISE
+USER_INFO=176488445_177900754_210736832_908
